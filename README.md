@@ -33,7 +33,7 @@ To run this task, you will need the following installed:
 
     ```bash
     git clone https://github.com/Goutham-IITJ/terminal-bench-config-migration-task.git
-    cd [terminal-bench-config-migration-task]
+    cd terminal-bench-config-migration-task
     ```
 
 2.  **Install Dependencies (if not already installed):**
