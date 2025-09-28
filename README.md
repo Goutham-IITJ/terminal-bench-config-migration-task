@@ -32,7 +32,7 @@ To run this task, you will need the following installed:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/](https://github.com/)[Goutham-IITJ]/[terminal-bench-config-migration-task].git
+    git clone https://github.com/Goutham-IITJ/terminal-bench-config-migration-task.git
     cd [terminal-bench-config-migration-task]
     ```
 
